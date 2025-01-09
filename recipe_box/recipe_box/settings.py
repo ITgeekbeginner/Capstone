@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'recipes',
-    'django_filters'
+    'django_filters',
 ]
 
 REST_FRAMEWORK = {
