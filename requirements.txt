@@ -2,3 +2,6 @@ django
 djangorestframework
 djangorestframework-simplejwt
 Pillow
+/home/ITgeekbeginner/Capstone/recipe_box (manage.py)
+/home/ITgeekbeginner/Capstone/recipe_box/recipe_box (settings.py)
+venv
